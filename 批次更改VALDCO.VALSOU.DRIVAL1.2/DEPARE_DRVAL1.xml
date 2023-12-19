@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ObjectToObjectConversionTable Version="1.0" FromType="GO" ToType="GO">
+    <ObjectMappings>
+        <Object Acronym="DEPARE">
+            <Filter>
+                <AttributeValueIsEqualTo Acronym="DRVAL1" Value="0.099"/>
+            </Filter>
+            <MapObject>
+                <MapObjectAcronym Acronym="DEPARE"/>
+                <CopyConvertibleAttributes/>
+                <SetAttributeValue Acronym="DRVAL1" Value="0"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="DEPARE">
+            <Filter>
+                <AttributeValueIsEqualTo Acronym="DRVAL1" Value="2.099"/>
+            </Filter>
+            <MapObject>
+                <MapObjectAcronym Acronym="DEPARE"/>
+                <CopyConvertibleAttributes/>
+                <SetAttributeValue Acronym="DRVAL1" Value="2"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="DEPARE">
+            <Filter>
+                <AttributeValueIsEqualTo Acronym="DRVAL1" Value="5.101"/>
+            </Filter>
+            <MapObject>
+                <MapObjectAcronym Acronym="DEPARE"/>
+                <CopyConvertibleAttributes/>
+                <SetAttributeValue Acronym="DRVAL1" Value="5"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="DEPARE">
+            <Filter>
+                <AttributeValueIsEqualTo Acronym="DRVAL1" Value="8.099"/>
+            </Filter>
+            <MapObject>
+                <MapObjectAcronym Acronym="DEPARE"/>
+                <CopyConvertibleAttributes/>
+                <SetAttributeValue Acronym="DRVAL1" Value="8"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="DEPARE">
+            <Filter>
+                <AttributeValueIsEqualTo Acronym="DRVAL1" Value="10.1"/>
+            </Filter>
+            <MapObject>
+                <MapObjectAcronym Acronym="DEPARE"/>
+                <CopyConvertibleAttributes/>
+                <SetAttributeValue Acronym="DRVAL1" Value="10"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="DEPARE">
+            <Filter>
+                <AttributeValueIsEqualTo Acronym="DRVAL1" Value="15.099"/>
+            </Filter>
+            <MapObject>
+                <MapObjectAcronym Acronym="DEPARE"/>
+                <CopyConvertibleAttributes/>
+                <SetAttributeValue Acronym="DRVAL1" Value="15"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="DEPARE">
+            <Filter>
+                <AttributeValueIsEqualTo Acronym="DRVAL1" Value="20.099"/>
+            </Filter>
+            <MapObject>
+                <MapObjectAcronym Acronym="DEPARE"/>
+                <CopyConvertibleAttributes/>
+                <SetAttributeValue Acronym="DRVAL1" Value="20"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="DEPARE">
+            <Filter>
+                <AttributeValueIsEqualTo Acronym="DRVAL1" Value="30.49"/>
+            </Filter>
+            <MapObject>
+                <MapObjectAcronym Acronym="DEPARE"/>
+                <CopyConvertibleAttributes/>
+                <SetAttributeValue Acronym="DRVAL1" Value="30"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="DEPARE">
+            <Filter>
+                <AttributeValueIsEqualTo Acronym="DRVAL1" Value="50.999"/>
+            </Filter>
+            <MapObject>
+                <MapObjectAcronym Acronym="DEPARE"/>
+                <CopyConvertibleAttributes/>
+                <SetAttributeValue Acronym="DRVAL1" Value="50"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="DEPARE">
+            <Filter>
+                <AttributeValueIsEqualTo Acronym="DRVAL1" Value="100.999"/>
+            </Filter>
+            <MapObject>
+                <MapObjectAcronym Acronym="DEPARE"/>
+                <CopyConvertibleAttributes/>
+                <SetAttributeValue Acronym="DRVAL1" Value="100"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="DEPARE">
+            <Filter>
+                <AttributeValueIsEqualTo Acronym="DRVAL1" Value="200.999"/>
+            </Filter>
+            <MapObject>
+                <MapObjectAcronym Acronym="DEPARE"/>
+                <CopyConvertibleAttributes/>
+                <SetAttributeValue Acronym="DRVAL1" Value="200"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="DEPARE">
+            <Filter>
+                <AttributeValueIsEqualTo Acronym="DRVAL1" Value="500.999"/>
+            </Filter>
+            <MapObject>
+                <MapObjectAcronym Acronym="DEPARE"/>
+                <CopyConvertibleAttributes/>
+                <SetAttributeValue Acronym="DRVAL1" Value="500"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="DEPARE">
+            <Filter>
+                <AttributeValueIsEqualTo Acronym="DRVAL1" Value="1000.999"/>
+            </Filter>
+            <MapObject>
+                <MapObjectAcronym Acronym="DEPARE"/>
+                <CopyConvertibleAttributes/>
+                <SetAttributeValue Acronym="DRVAL1" Value="1000"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="DEPARE">
+            <Filter>
+                <AttributeValueIsEqualTo Acronym="DRVAL1" Value="2000.999"/>
+            </Filter>
+            <MapObject>
+                <MapObjectAcronym Acronym="DEPARE"/>
+                <CopyConvertibleAttributes/>
+                <SetAttributeValue Acronym="DRVAL1" Value="2000"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="DEPARE">
+            <Filter>
+                <AttributeValueIsEqualTo Acronym="DRVAL1" Value="3000.999"/>
+            </Filter>
+            <MapObject>
+                <MapObjectAcronym Acronym="DEPARE"/>
+                <CopyConvertibleAttributes/>
+                <SetAttributeValue Acronym="DRVAL1" Value="3000"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="DEPARE">
+            <Filter>
+                <AttributeValueIsEqualTo Acronym="DRVAL1" Value="4000.999"/>
+            </Filter>
+            <MapObject>
+                <MapObjectAcronym Acronym="DEPARE"/>
+                <CopyConvertibleAttributes/>
+                <SetAttributeValue Acronym="DRVAL1" Value="4000"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="DEPARE">
+            <Filter>
+                <AttributeValueIsEqualTo Acronym="DRVAL1" Value="5000.999"/>
+            </Filter>
+            <MapObject>
+                <MapObjectAcronym Acronym="DEPARE"/>
+                <CopyConvertibleAttributes/>
+                <SetAttributeValue Acronym="DRVAL1" Value="5000"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="DEPARE">
+            <Filter>
+                <AttributeValueIsEqualTo Acronym="DRVAL1" Value="6000.999"/>
+            </Filter>
+            <MapObject>
+                <MapObjectAcronym Acronym="DEPARE"/>
+                <CopyConvertibleAttributes/>
+                <SetAttributeValue Acronym="DRVAL1" Value="6000"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="DEPARE">
+            <Filter>
+                <AttributeValueIsEqualTo Acronym="DRVAL1" Value="7000.999"/>
+            </Filter>
+            <MapObject>
+                <MapObjectAcronym Acronym="DEPARE"/>
+                <CopyConvertibleAttributes/>
+                <SetAttributeValue Acronym="DRVAL1" Value="7000"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="DEPARE">
+            <Filter>
+                <AttributeValueIsEqualTo Acronym="DRVAL1" Value="8000.999"/>
+            </Filter>
+            <MapObject>
+                <MapObjectAcronym Acronym="DEPARE"/>
+                <CopyConvertibleAttributes/>
+                <SetAttributeValue Acronym="DRVAL1" Value="8000"/>
+            </MapObject>
+        </Object>
+    </ObjectMappings>
+</ObjectToObjectConversionTable>

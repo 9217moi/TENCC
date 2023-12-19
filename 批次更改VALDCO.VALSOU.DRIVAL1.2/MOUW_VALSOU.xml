@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ObjectToObjectConversionTable Version="1.0" FromType="GO" ToType="GO">
+    <ObjectMappings>
+        <Object Acronym="MARCUL">
+            <MapObject>
+                <MapObjectAcronym Acronym="MARCUL"/>
+                <CopyConvertibleAttributes/>
+                <CopyAttributeValue FromAcronym="VALSOU" ToAcronym="VALSOU" Round="Truncate" Precision="1"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="OBSTRN">
+            <MapObject>
+                <MapObjectAcronym Acronym="OBSTRN"/>
+                <CopyConvertibleAttributes/>
+                <CopyAttributeValue FromAcronym="VALSOU" ToAcronym="VALSOU" Round="Truncate" Precision="1"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="UWTROC">
+            <MapObject>
+                <MapObjectAcronym Acronym="UWTROC"/>
+                <CopyConvertibleAttributes/>
+                <CopyAttributeValue FromAcronym="VALSOU" ToAcronym="VALSOU" Round="Truncate" Precision="1"/>
+            </MapObject>
+        </Object>
+        <Object Acronym="WRECKS">
+            <MapObject>
+                <MapObjectAcronym Acronym="WRECKS"/>
+                <CopyConvertibleAttributes/>
+                <CopyAttributeValue FromAcronym="VALSOU" ToAcronym="VALSOU" Round="Truncate" Precision="1"/>
+            </MapObject>
+        </Object>
+    </ObjectMappings>
+</ObjectToObjectConversionTable>
